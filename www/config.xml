@@ -103,5 +103,5 @@
     <splash src="res/screens/windows/SplashScreen.scale-240.png" width="1152" height="1920" />
     <splash src="res/screens/windows/SplashScreenPhone.scale-240.png" width="1152" height="1920" />
   </platform>
-  <plugin name="cordova-plugin-kiosk-launcher"  src="https://github.com/guatedude2/cordova-plugin-kiosk-launcher" />
+  <plugin name="cordova-plugin-kiosk-launcher" spec="~0.2" src="https://github.com/guatedude2/cordova-plugin-kiosk-launcher" />
 </widget>
